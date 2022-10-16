@@ -21,7 +21,6 @@ class No0027SolutionSingle {
         }
         return nums;
     }
-
     // This can successfully run.
     public static int moveNotTarget(int[] nums, int target) {
         int pivot = 0;
