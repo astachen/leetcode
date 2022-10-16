@@ -20,7 +20,6 @@ class No0027SolutionSingle {
 
         }
         return nums;
-
     }
 
     // This can successfully run.
