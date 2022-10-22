@@ -3,7 +3,7 @@ package stackAndQueue;
 import java.util.Deque;
 import java.util.LinkedList;
 
-// Today I've learned that switch can be used to form a syntax system. This will be very useful comparing to multiple if when facing multiple tasks.
+// Today I've learned that switch can be used to form a syntax system. This will be very useful comparing to multiple if when forming a system.
 class No0150Solution {
     public static int evalRPN(String[] src) {
         // Initialize
