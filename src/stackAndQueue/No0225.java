@@ -40,6 +40,7 @@ class MyStack {
     // Actually if the queue1 is empty then the method pop and top will throw a NullPointerException.
     // But since the question said that the stack is not empty and the compiler cannot detect this, there are two warnings here.
 
+
     //Returns whether the stack is empty.
     public boolean empty() {
         return queue1.isEmpty();
