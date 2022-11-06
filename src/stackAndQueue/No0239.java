@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 // Today I've learned that sometimes we need to separate the first process to prevent the error that might happen during the test.
-class Solution {
+class No0239Solution {
     public static int[] maxSlidingWindow(int[] src, int range) {
         // Initialize
         int n = src.length;
@@ -41,6 +41,6 @@ public class No0239 {
     public static void main(String[] args) {
         int[] src = {1,3,-1,-3,5,3,6,7};
         int range = 3;
-        System.out.println(Arrays.toString(Solution.maxSlidingWindow(src,range)));
+        System.out.println(Arrays.toString(No0239Solution.maxSlidingWindow(src,range)));
     }
 }
