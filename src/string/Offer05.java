@@ -1,6 +1,6 @@
 package string;
 
-// A pretty simple question: replace the blank spaces with %20
+// A pretty simple question: replace the blank spaces with %20.
 public class Offer05 {
     public static String replaceSpace(String src) {
         StringBuilder res = new StringBuilder();
